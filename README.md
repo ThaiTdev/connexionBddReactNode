@@ -40,7 +40,7 @@ Cette ligne de code va installer le package "dotenv" qui va nous permettre la cr
 ```bash
   npm install morgan --save -dev
 ```
-Ce MiddleWares nous permet de voir les requêtes dans le terminal
+Ce MiddleWare nous permet de voir les requêtes dans le terminal
 
 ```bash
   npm install body-parser --save 
